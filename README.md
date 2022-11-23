@@ -3,7 +3,14 @@
 - Sports
 - Cooking
 - History
+```mermaid
+pie
+"Sports" : 60
+"Cooking" : 10
+"History" : 30
+```
 
+---
 ```
 
   "firstName": "Hector Louis A.",
@@ -14,3 +21,5 @@
 ![image](https://user-images.githubusercontent.com/118231416/202890578-ae4ecae7-3fda-4f02-adca-9c033415ed5a.png)
 
 I love school! :school: What about you?
+
+---
