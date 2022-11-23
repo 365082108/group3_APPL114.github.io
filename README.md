@@ -23,3 +23,8 @@ pie
 I love school! :school: What about you?
 
 ---
+```Disclaimer- This a short video about the Ateneo De naga University (ADNU).```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7O0Es7D9G9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
+  
+  
