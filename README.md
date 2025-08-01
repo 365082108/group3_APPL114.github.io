@@ -1,20 +1,80 @@
-# Welcome to group3_APPL114.github.io
----
-()
-()
-()
-```mermaid
-()
-```
-()
----
-```
-  ()
-```
-![image](https://user-images.githubusercontent.com/118231416/202890578-ae4ecae7-3fda-4f02-adca-9c033415ed5a.png)
+<h1>Title</h1>
 
-()
+<section class="photo-block">
+  <img src="photo1.jpg" alt="Picture 1">
+  <div class="caption">Description</div>
+</section>
 
----
-()
-()
+<section class="photo-block">
+  <img src="photo2.jpg" alt="Picture 2">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 3">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo1.jpg" alt="Picture 4">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo2.jpg" alt="Picture 5">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 6">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 7">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 8">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 9">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 10">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 11">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 12">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 13">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 14">
+  <div class="caption">Description</div>
+</section>
+
+<section class="photo-block">
+  <img src="photo3.jpg" alt="Picture 15">
+  <div class="caption">Description</div>
+</section>
+
+<footer>
+  &copy; 2025 | Photo Essay by Group#3_APPL114 · All rights reserved.
+</footer>
