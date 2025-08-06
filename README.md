@@ -50,31 +50,6 @@
   <div class="caption">Description</div>
 </section>
 
-<section class="photo-block">
-  <img src="photo3.jpg" alt="Picture 11">
-  <div class="caption">Description</div>
-</section>
-
-<section class="photo-block">
-  <img src="photo3.jpg" alt="Picture 12">
-  <div class="caption">Description</div>
-</section>
-
-<section class="photo-block">
-  <img src="photo3.jpg" alt="Picture 13">
-  <div class="caption">Description</div>
-</section>
-
-<section class="photo-block">
-  <img src="photo3.jpg" alt="Picture 14">
-  <div class="caption">Description</div>
-</section>
-
-<section class="photo-block">
-  <img src="photo3.jpg" alt="Picture 15">
-  <div class="caption">Description</div>
-</section>
-
 <footer>
   &copy; 2025 | Photo Essay by Group#3_APPL114 · All rights reserved.
 </footer>
